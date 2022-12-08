@@ -1,1 +1,2 @@
 Softskill is useful but instructor is boring
+editor: Java is hard
